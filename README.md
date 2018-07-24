@@ -5,6 +5,10 @@ Compatibility
 ---
 Running on Swift 4.1
 
+Screenshots
+---
+![1532020145465](https://user-images.githubusercontent.com/13359795/43139809-05d1b678-8f53-11e8-93da-6cdbc38f44a3.JPEG)
+
 Credits
 ---
 Original graphical assets were provided by Udacity. The concept for this app was presented during the iOS Nanodegree programme provided by Udacity.
